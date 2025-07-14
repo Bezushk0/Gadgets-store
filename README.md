@@ -45,7 +45,7 @@ Developed by: **Vladyslav Bezushko**
 
 Get in touch:
 
-- **Email:** bezushkovladis@gmail.com  
+- **Email:** fe.vladislav.bezushko@gmail.com 
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/vladislav-bezushko-173795232/)  
 - **Instagram:** [v_bezushk0](https://www.instagram.com/v_bezushk0/)  
 - **Telegram:** [Bezushk0](https://t.me/Bezushk0)
